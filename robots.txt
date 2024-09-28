@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ermitify.github.io/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/app/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/assets/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/css/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/data/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/includes/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/item/sitemap.ermitify.gz
+Sitemap: https://ermitify.github.io/src/sitemap.ermitify.gz
